@@ -1,102 +1,59 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I'm an engineer with a passion for food, travelling, and improving people's lives through technology. I graduated with a BASc. in Mechatronics Engineering from the University of Waterloo, and I'm currently finishing up my M.S. degree in Computer Science at the University of Southern California. My interests lie at the intersection of AI and Robotics, with a focus on Computer Vision and Reinforcement Learning. I have an array of industry and research experience, having worked at large companies (like [Walt Disney Imagineering](https://la.disneyresearch.com/) and [IBM](https://www.ibm.com/ca-en)), start-ups (like [Dragonfruit AI](https://www.dragonfruit.ai/)), and research labs (like [CLVR](https://clvrai.com/)). I would love to play a part in harnessing the recent advances of AI and Robotics, and leveraging it to improve domains such as healthcare, education, and anything else that will help people live easier, safer and more fulfilling lives.
 
-# Currently
+# Looking for a Job :)
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+I will be graduating May 2023, and am actively looking for a full time role in the field of machine learning/robotics/software engineering. Please reach out if you feel that my experience and interests align with your project/team needs.
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
-
-Ask me in person for other stories that I'm afraid to share with the internet.
+- Born in Jakarta, Indonesia on July 30, 1997.
+- Moved to Toronto, Canada in August of 2008.
+- I got my first job in the 7th grade. I worked as a [Legislative Page](https://www.ola.org/en/visit-learn/programs/about-page-program) at the Legislative Assembly of Ontario.
+- Discovered my passion for engineering when I took a woodshop course in the 9th grade. I built an iPhone 3G projector out of wood and a couple of glass lenses.
+- I got my first tech job at a local robotics startup, in my Junior year of high school. I built a reprap robot that "printed" out funnel cake batter, using an Arduino and 3D printed parts.
+- Enrolled in the University of Waterloo, majoring in Mechatronics Engineering, in the Fall of 2015. 
+- Went on exchange and studied [Engineering Product Development](https://epd.sutd.edu.sg/) at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/) for the Winter 2019 semester. Took the opportunity to travel to Malaysia, Thailand, Vietnam, and back home to Indonesia.
+- Fulfilled a childhood dream when I interned at [Walt Disney Imagineering](https://sites.disney.com/waltdisneyimagineering/) in the Summer of 2019, where I contributed [Moana's Journey of Water](https://www.disneytouristblog.com/moana-journey-water-opening-info/) opening in EPCOT late 2023. It was the sixth and final internship of my undergrad.
+- Graduated from the University of Waterloo in July of 2020. Presented our Capstone Project: an intelligent water monitoring system called [Lilypod](https://devpost.com/software/lilypod).
+- Got a paper, [A deep learning approach to the screening of malaria infection: Automated and rapid cell counting, object detection and instance segmentation using Mask R-CNN](https://www.sciencedirect.com/science/article/abs/pii/S0895611120301403), accepted to [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) in December of 2020.
+- Enrolled in the University of Southern California, pursuing an M.S. in Computer Science, in the Fall of 2020.
+- Took a Leave of Absence due to the pandemic's interruption of in-person classes.
+- Worked a couple of remote internships.
+- Moved to Los Angeles for school in the Fall of 2021.
+- Joined [CLVR](https://clvrai.com/) in November of 2021.
+- Went back to [Disney Research](https://la.disneyresearch.com/) for a second internship in the Summer of 2022. It was just as magical the second time around!
 
 # I like
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Cooking (and eating)
+- Badminton
+- Chess
+- Guitar
+- Poetry
+- Binging sitcoms
+- Singing karaoke with friends
 
-# Travel / Geography
+# According to others
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
+- [Zubin Dittia](https://www.linkedin.com/in/zubindittia/), Software Architect, Dragonfruit AI (2021)
+> Jullian is the brightest young engineer I've ever had the pleasure of working with (I would usually add a "one of the" descriptor to a statement like this, but decided that this was not warranted in his case). He has only begun work on his masters program, but already he knows more about software development than many senior engineers who have been in the industry for a long time. On top of this, he has a very conscientious work ethic, and produces prolifically. During his short 7 month internship at Dragonfruit, he built from the ground up a key new product that extended our existing offering in an entirely new dimension, and which involved exploration, research, development (on multiple OSs), integration, deployment, and working with customers. Thanks to his efforts, we were able to get this new product out into the field in record time. Before he completed his internship he made a 40+ page document of his work so others could continue building and supporting the product. Bravo! I suspect Jullian is destined for great things.
 
-# Fun facts
+- [Vishal Goel](https://www.linkedin.com/in/vshlgl/), Software Architect, Dragonfruit AI (2021)
+> Jullian spent a few months with our team and worked on an absolutely new feature set. He was unfazed by the challenging task and went about it in a very autonomous manner.
+The field of on-prem AI solutions is new and requires a great deal of original thinking and perseverance to be able to actualize a production worthy solution. Jullian was able to deliver very convincingly on this.
+His work was thorough and he delivered very high quality output. It was a pleasure to work with Jullian and I wish him the very best for this future.
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a [cruiser](https://landyachtz.com/boards/cruiser/), [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric skateboard](https://boostedusa.com/collections/electric-skateboards/products/boosted-mini-x) every single day.
-- I added this page because so many people complained that my site was just my resume.
+- [Jeremie Papon](https://www.linkedin.com/in/jeremie-papon-112ab655/), R&D Imagineering Principal, Disney Research (2019)
+> Jullian was an outstanding worker, who regularly sought and came up with innovative solutions to complex problems. When needed, he would seek out and learn new disciplines on his own to solve these problems, including teaching himself areas of deep learning for which there were no in-house experts to mentor him. Jullian also showed exceptional initiative by indentifying areas of need, proposing new project ideas, and executing on them. Jullian was a fantastic intern, one of the best I've had. He learned how to use our internal system very quickly, and began making improvements to it almost immediately.
 
-# I dream of
+- [Branavan Selvasingham](https://www.linkedin.com/in/branavanselvasingham/), Senior Managing Solution Architect (AI, Ops, IoT), IBM (2018)
+> Jullian was an outstanding worker, who regularly sought and came up with innovative solutions to complex problems. When needed, he would seek out and learn new disciplines on his own to solve these problems, including teaching himself areas of deep learning for which there were no in-house experts to mentor him. Jullian also showed exceptional initiative by indentifying areas of need, proposing new project ideas, and executing on them. Jullian was a fantastic intern, one of the best I've had. He learned how to use our internal system very quickly, and began making improvements to it almost immediately.
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
+- [Felipe Perez](https://www.linkedin.com/in/felipe-perez-/), Data Scientist, Zero Gravity Labs (2018)
+> I have met only a few people with as much initiative, curiosity, and persistence as Jullian. During his time as a co-op at ZGL, I had the pleasure of seeing him and his team build a couple of projects from scratch, including a serverless mobile application and an in-store AR game. Jullian was always willing to teach his team members what he had learned and was skilled at doing so. I miss our chess games together, especially his clever strategies. Overall, I think any place would be lucky to have someone like Jullian as a member.
 
-# Websites from people I admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com)
-
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+- [Abhijit Sinha](https://www.linkedin.com/in/abhijit-sinha-8365112/), Director (Aerospace & Defence), A.U.G. Signals (2017)
+> Mr. Jullian A. Yapeter has shown a great interest in his work at A.U.G. Signals Ltd (AUG). He actively approached me (his supervisor) to fill up the gaps including while running computational intensive processing. Mr. Yapeter has shown excellent ability to quickly learn algorithms, e.g. image resampling and data interpolation, and software languages (e.g. Matlab). The quality of work he delivered to the company was outstanding. During the term, Mr. Yapeter has produced large volume of work, including development of algorithms (e.g. for data interpolation and image resampling); performing literature review (e.g. understanding Biologische Bundesanstalt, Bundessortenamt und CHemische Industrie (BBCH) scale for canola crop); software development and testing (e.g. for automation of Polarimetric Synthetic Aperture Radar (SAR) parameter extraction and image othro-rectification); and data processing (e.g. SAR and electro-optical imagery preprocessing and parameter extraction). He has shown a great ability in solving algorithm development and software coding challenges. During his work at AUG, Mr. Yapeter has been very dependable, even when the deadlines were very tight. He was a valuable asset to the team by accommodating team’s needs. He has been very responsive to supervision, even when it required adapting his work. He always met the deadlines for all the tasks. AUG provided a diverse working environment within which Mr. Yapeter was always been very comfortable. He has taken a keen interest to understand how the task assigned to him helps AUG’s goals and provided useful feedback on a number of occasions. Mr. Yapeter has shown excellent written and oral communication skills on every occasion available.

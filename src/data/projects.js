@@ -1,47 +1,86 @@
 // TODO Add a couple lines about each project
+// DeXter
+// H&M Fashion Recommendation
+// Go-playing Agent: Minimax with Alpha-Beta Pruning
+// Reward-Induced Representation Learning
+// Hollywood2Vec
+// NutritionAI
+// AngelEye
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'LCMVAE: Language-conditioned Masked Variational Autoencoder',
+    subtitle: 'Final Project for CSCI 566 (Deep Learning Applications)',
+    link: 'https://github.com/jullian-yapeter/lcmvae',
+    image: '/images/projects/lcmvae_architecture.png',
+    date: '2022-05-07',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'A simple solution for multimodal representation learning, '
+      + 'which takes advantage of modality-specific pre-trained encoders '
+      + 'and a flexible, lightweight, latent-mixing network to effectively '
+      + 'generate meaningful multimodal representations.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Reward-Induced Representation Learning',
+    subtitle: 'CLVR implementation challenge',
+    link: 'https://drive.google.com/file/d/1ml9Bv1kwrOHu7ZyOcCSh8zUiPvmKdmJP/view?usp=sharing',
+    image: '/images/projects/rewirl.png',
+    date: '2021-10-11',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Pre-trained predictive models on various tasks to facilitate RL '
+      + 'training on a novel downstream task of the same distribution. '
+      + 'The resulting reward-induced representation proved useful in both '
+      + 'speeding up downstream PPO training, and improving final rollout performance.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Lilypod',
+    subtitle: 'Undergraduate Mechatronics Capstone Project',
+    link: 'https://devpost.com/software/lilypod',
+    image: '/images/projects/lilypod.jpg',
+    date: '2020-07-09',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'AI-powered water monitoring system. Measures parameters '
+      + 'of its surrounding environment, collects samples of the '
+      + 'pollutants, and performs data analytics in the cloud to '
+      + 'produce valuable information.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'NaviGAIT',
+    subtitle: 'Vision for the blind, through positional sound',
+    link: 'https://www.youtube.com/watch?v=u461GjQ7Z2Q',
+    image: '/images/projects/navigait.png',
+    date: '2019-04-24',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Final project for 30.007 Engineering Design Innovation course at SUTD. '
+      + 'An ultrasonic-based wearable for the blind, using 3D positional '
+      + 'audio feedback to assist in obstacle avoidance, and IMU-based '
+      + 'fall detection and notification functionality over Twilio API. '
+      + 'Won Best Demonstration Award at public project exhibition; '
+      + 'awarded by industry guests.',
+  },
+  {
+    title: 'Automatic Watermark Removal',
+    subtitle: 'Final Project for CS 484 (Computational Vision)',
+    link: 'https://colab.research.google.com/drive/1-hkFWtocytYekYemIyUdMASr-2SIRuJ_?usp=sharing',
+    image: '/images/projects/watermark_remover.png',
+    date: '2019-12-19',
+    desc:
+      'Given a set of images with the same watermark, our method '
+      + 'segments watermark boundaries (employing graph cut) and subsequently '
+      + "estimates the watermark's "
+      + 'parameters (color + alpha-blending constant). It then removes '
+      + 'the watermark using an inverse watermarking transform. ',
+  },
+  {
+    title: 'Portrait AutoColorizer',
+    subtitle: 'Final Project for SYDE 522 (Machine Intelligence)',
+    link: 'https://drive.google.com/file/d/1Af5hkV5s5VR1SrdMEP1oeAzz4qoAa7o9/view?usp=sharing',
+    image: '/images/projects/autocolorizer.png',
+    date: '2020-04-27',
+    desc:
+      "This one started because I wanted to colorize my grandparents' old portraits. "
+      + 'Our AutoColorizer fine-tunes a VGG16 network pretrained on ImageNet. '
+      + 'It is then trained on a dataset of 200,000 celebrity portraits. We formulate the colorization '
+      + 'process as the prediction of the AB channels given the L channel of an image in the LAB color space.',
   },
 ];
 

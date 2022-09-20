@@ -12,21 +12,24 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Jullian Arta Yapeter</h2>
+        <p><a href="mailto:jullianyapeter@gmail.com">jullianyapeter@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Jullian. I&apos;m a second-year Computer Science M.S. student at USC.
+        I am currently a Graduate Research Assistant at <a href="https://clvrai.com/">CLVR Lab</a>.
+        I received my Bachelor&apos;s degree in Mechatronics Engineering with a minor in AI from the
+        <a href="https://uwaterloo.ca/future-students/programs/mechatronics-engineering">University of Waterloo</a>.
+        I have done a number of internships in the field of
+        Computer Vision and Deep Learning, including at
+        <a href="https://la.disneyresearch.com/"> Disney Research</a>,
+        <a href="https://www.ibm.com/ca-en"> IBM</a>,
+        <a href="media.gm.com/product/public/ca/en/gm_innovates/canadiantechnicalcentre.html"> GM (2908 Lab)
+        </a>,
+        and <a href="https://www.dragonfruit.ai/"> Dragonfruit AI</a>.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +40,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Jullian Yapeter <Link to="/">jullianyapeter.com</Link>.</p>
     </section>
   </section>
 );

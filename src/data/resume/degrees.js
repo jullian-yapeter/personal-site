@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Southern California',
+    degree: 'M.S. Computer Science',
+    link: 'https://viterbischool.usc.edu/',
+    year: 2023,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Waterloo',
+    degree: "BASc. Mechatronics Engineering (Artificial Intelligence minor), Dean's Honors List",
+    link: 'https://uwaterloo.ca/future-students/programs/mechatronics-engineering',
+    year: 2020,
   },
 ];
 
