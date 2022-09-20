@@ -10,6 +10,7 @@ I will be graduating May 2023, and am actively looking for a full time role in t
 # Some history
 
 - Born in Jakarta, Indonesia on July 30, 1997.
+- Got my black belt in Taekwondo in mid 2008.
 - Moved to Toronto, Canada in August of 2008.
 - I got my first job in the 7th grade. I worked as a [Legislative Page](https://www.ola.org/en/visit-learn/programs/about-page-program) at the Legislative Assembly of Ontario.
 - Discovered my passion for engineering when I took a woodshop course in the 9th grade. I built an iPhone 3G projector out of wood and a couple of glass lenses.
@@ -18,7 +19,7 @@ I will be graduating May 2023, and am actively looking for a full time role in t
 - Went on exchange and studied [Engineering Product Development](https://epd.sutd.edu.sg/) at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/) for the Winter 2019 semester. Took the opportunity to travel to Malaysia, Thailand, Vietnam, and back home to Indonesia.
 - Fulfilled a childhood dream when I interned at [Walt Disney Imagineering](https://sites.disney.com/waltdisneyimagineering/) in the Summer of 2019, where I contributed [Moana's Journey of Water](https://www.disneytouristblog.com/moana-journey-water-opening-info/) opening in EPCOT late 2023. It was the sixth and final internship of my undergrad.
 - Graduated from the University of Waterloo in July of 2020. Presented our Capstone Project: an intelligent water monitoring system called [Lilypod](https://devpost.com/software/lilypod).
-- Got a paper, [A deep learning approach to the screening of malaria infection: Automated and rapid cell counting, object detection and instance segmentation using Mask R-CNN](https://www.sciencedirect.com/science/article/abs/pii/S0895611120301403), accepted to [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) in December of 2020.
+- Published a paper, [A deep learning approach to the screening of malaria infection: Automated and rapid cell counting, object detection and instance segmentation using Mask R-CNN](https://www.sciencedirect.com/science/article/abs/pii/S0895611120301403), in [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) in December of 2020.
 - Enrolled in the University of Southern California, pursuing an M.S. in Computer Science, in the Fall of 2020.
 - Took a Leave of Absence due to the pandemic's interruption of in-person classes.
 - Worked a couple of remote internships.
