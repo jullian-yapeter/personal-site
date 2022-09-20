@@ -32,7 +32,7 @@ const positions = [
     ],
   },
   {
-    company: 'IBM',
+    company: 'IBM ',
     position: 'AI & IoT Developer Intern',
     link: 'https://www.ibm.com/ca-en',
     daterange: 'September 2020 - December 2020',
@@ -42,7 +42,7 @@ const positions = [
     ],
   },
   {
-    company: 'Walt Disney Imagineering (Disney Research)',
+    company: 'Walt Disney Imagineering (Disney Research) ',
     position: 'R&D Lab Associate Intern (Computer Vision and Perception)',
     link: 'https://www.disneyresearch.com/',
     daterange: 'May 2019 - August 2019',
