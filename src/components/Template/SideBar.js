@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>Hi, I&apos;m Jullian. I&apos;m a second-year Computer Science M.S. student at USC.
         I am currently a Graduate Research Assistant at <a href="https://clvrai.com/">CLVR Lab</a>.
         I received my Bachelor&apos;s degree in Mechatronics Engineering with a minor in AI from the
-        <a href="https://uwaterloo.ca/future-students/programs/mechatronics-engineering">University of Waterloo</a>.
+         <a href="https://uwaterloo.ca/future-students/programs/mechatronics-engineering">University of Waterloo</a>.
         I have done a number of internships in the field of
         Computer Vision and Deep Learning, including at
         <a href="https://la.disneyresearch.com/"> Disney Research</a>,
