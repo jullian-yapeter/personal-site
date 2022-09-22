@@ -7,6 +7,7 @@ import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
+import PDF from '../components/Resume/Pdf';
 // import References from '../components/Resume/References';
 
 import courses from '../data/resume/courses';
@@ -19,6 +20,7 @@ const sections = [
   'Experience',
   'Skills',
   'Courses',
+  'PDF',
 ];
 
 const Resume = () => (
@@ -36,15 +38,13 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
         </div>
       </header>
       <Education data={degrees} />
       <Experience data={positions} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
-      {/* <References /> */}
-
+      <PDF />
     </article>
   </Main>
 );
