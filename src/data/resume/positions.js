@@ -78,7 +78,7 @@ const positions = [
   {
     company: 'General Motors (2908 Lab)',
     position: 'Innovation Specialist Co-op',
-    link: 'media.gm.com/product/public/ca/en/gm_innovates/canadiantechnicalcentre.html',
+    link: 'https://www.gm.com/',
     daterange: 'September 2017 - December 2017',
     points: [
       'Product manager for advanced technology projects including E-Bikes & Towing Visibility, implementing lean development, sprint methodologies, and rapid prototyping.',

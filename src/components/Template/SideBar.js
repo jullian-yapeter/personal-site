@@ -27,7 +27,7 @@ const SideBar = () => (
         Computer Vision and Deep Learning, including at
         <a href="https://la.disneyresearch.com/"> Disney Research</a>,
         <a href="https://www.ibm.com/ca-en"> IBM</a>,
-        <a href="media.gm.com/product/public/ca/en/gm_innovates/canadiantechnicalcentre.html"> GM (2908 Lab)
+        <a href="https://www.gm.com/"> GM (2908 Lab)
         </a>,
         and <a href="https://www.dragonfruit.ai/"> Dragonfruit AI</a>.
       </p>
