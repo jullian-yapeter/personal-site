@@ -10,7 +10,7 @@ const data = [
   {
     title: 'LCMVAE: Language-conditioned Masked Variational Autoencoder',
     subtitle: 'Final Project for CSCI 566 (Deep Learning Applications)',
-    link: 'https://github.com/jullian-yapeter/lcmvae',
+    link: 'https://github.com/jullian-yapeter/lcmvae/blob/main/566_Final_Report.pdf',
     image: '/images/projects/lcmvae_architecture.png',
     date: '2022-05-07',
     desc:
