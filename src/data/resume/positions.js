@@ -32,17 +32,17 @@ const positions = [
     ],
   },
   {
-    company: 'IBM ',
+    company: 'IBM',
     position: 'AI & IoT Developer Intern',
     link: 'https://www.ibm.com/ca-en',
     daterange: 'September 2020 - December 2020',
     points: [
       'Developed an image annotation web application to produce PascalVOC files, using React, Express, and MongoDB.',
-      'esigned and built a ROS-based framework for prototyping path planning controllers on iRobot Roombas that includes a React web interface that is used to manually send goal coordinates to the robot.',
+      'Designed and built a ROS-based framework for prototyping path planning controllers on iRobot Roombas that includes a React web interface that is used to manually send goal coordinates to the robot.',
     ],
   },
   {
-    company: 'Walt Disney Imagineering (Disney Research) ',
+    company: 'Walt Disney Imagineering (Disney Research)',
     position: 'R&D Lab Associate Intern (Computer Vision and Perception)',
     link: 'https://www.disneyresearch.com/',
     daterange: 'May 2019 - August 2019',
@@ -55,7 +55,7 @@ const positions = [
   {
     company: 'IBM',
     position: 'AI & IoT Developer Intern',
-    link: 'https://planet.com',
+    link: 'https://www.ibm.com/ca-en',
     daterange: 'September 2018 - December 2018',
     points: [
       'Developed a Dynamixel servo-based 4DoF robotic arm, capable of picking up self-trained targets as recognized via a hybridization of Faster R-CNN and KCF Trackers, as commanded via voice recognition, and utilizing inverse kinematics, on an NVIDIA Jetson TX2 Board.',
