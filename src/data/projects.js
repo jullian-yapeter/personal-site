@@ -20,6 +20,19 @@ const data = [
       + 'generate meaningful multimodal representations.',
   },
   {
+    title: 'A deep learning approach to the screening of malaria infection: Automated and rapid cell counting, object detection and instance segmentation using Mask R-CNN',
+    subtitle: 'Published in Computerized Medical Imaging and Graphics',
+    link: 'https://www.sciencedirect.com/science/article/abs/pii/S0895611120301403',
+    image: '/images/projects/malaria_mask_rcnn.png',
+    date: '2021-03-01',
+    desc:
+      'Application of a deep-learning model, Mask R-CNN, trained to identify '
+      + 'healthy and Plasmodium-infected red blood cells. '
+      + 'Capable of generating segmentation masks on top of bounding box classifications '
+      + 'for immediate visualization and stage-specific identification. '
+      + 'Potential to reduce errors common in manual counting through subsequent standardization.',
+  },
+  {
     title: 'Reward-Induced Representation Learning',
     subtitle: 'CLVR implementation challenge',
     link: 'https://drive.google.com/file/d/1ml9Bv1kwrOHu7ZyOcCSh8zUiPvmKdmJP/view?usp=sharing',
