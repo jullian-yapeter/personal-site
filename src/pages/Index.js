@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={'Jullian Yapeter personal website. USC Computer Science M.S. student'
-    + 'UWaterloo Mechatronics Engineering graduate.'}
+      + 'UWaterloo Mechatronics Engineering graduate.'}
   >
     <article className="post" id="index">
       <header>
@@ -22,8 +22,8 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         {/* view <Link to="/stats">site statistics</Link>, {' '} */}
-        or <Link to="/contact">contact</Link> me. I am currently looking for a full-time role in
-        the field of machine learning/robotics/software engineering. Whether you are hiring, or if
+        or <Link to="/contact">contact</Link> me. I am an incoming Machine Learning Scientist
+        @ <a href="https://signal1.ai/">Signal 1</a>. If
         you just want to chat about technology/what I&apos;m up to/what you&apos;re up to,
         I&apos;d love to hear it! Please feel free to reach out :)
       </p>
