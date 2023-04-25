@@ -53,6 +53,18 @@ const courses = [
     link: 'https://viterbi-web.usc.edu/~adamchik/570/syllabus.pdf',
     university: 'USC',
   },
+  {
+    title: 'Autonomous Cyber-Physical Systems',
+    number: 'CSCI 513',
+    link: 'https://jdeshmukh.github.io/teaching/cs513-autocps-fall-2022/index.html',
+    university: 'USC',
+  },
+  {
+    title: 'Multimodal Learning of Human Communication',
+    number: 'CSCI 535',
+    link: 'https://people.ict.usc.edu/~soleymani/files/HumanCommunicationLearning-Spring2021.pdf',
+    university: 'USC',
+  },
 ];
 
 export default courses;

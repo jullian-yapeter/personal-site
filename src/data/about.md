@@ -1,11 +1,7 @@
 
 # Intro
 
-I'm an engineer with a passion for food, travelling, and improving people's lives through technology. I graduated with a BASc. in Mechatronics Engineering from the University of Waterloo, and I'm currently finishing up my M.S. degree in Computer Science at the University of Southern California. My interests lie at the intersection of AI and Robotics, with a focus on Computer Vision and Reinforcement Learning. I have an array of industry and research experience, having worked at large companies (like [Walt Disney Imagineering](https://la.disneyresearch.com/) and [IBM](https://www.ibm.com/ca-en)), start-ups (like [Dragonfruit AI](https://www.dragonfruit.ai/)), and research labs (like [CLVR](https://clvrai.com/)). I would love to play a part in harnessing the recent advances of AI and Robotics, and leveraging it to improve domains such as healthcare, education, and anything else that will help people live easier, safer and more fulfilling lives.
-
-# Looking for a Job :)
-
-I will be graduating May 2023, and am actively looking for a full time role in the field of machine learning/robotics/software engineering. Please reach out if you feel that my experience and interests align with your project/team needs.
+I'm an engineer with a passion for food, travelling, and improving people's lives through technology. I graduated with a BASc. in Mechatronics Engineering from the University of Waterloo, and I'm currently finishing up my M.S. degree in Computer Science at the University of Southern California. My interests lie at the intersection of AI and Robotics, with a focus on Computer Vision and Reinforcement Learning. I have an array of industry and research experience, having worked at large companies (like [Walt Disney Imagineering](https://la.disneyresearch.com/) and [IBM](https://www.ibm.com/ca-en)), start-ups (like [Dragonfruit AI](https://www.dragonfruit.ai/)), and research labs (like [CLVR](https://clvrai.com/)). I am currently a Machine Learning Scientist at [Signal 1](https://signal1.ai/), leveraging AI to improve hospital care.
 
 # Some history
 
@@ -26,6 +22,7 @@ I will be graduating May 2023, and am actively looking for a full time role in t
 - Moved to Los Angeles for school in the Fall of 2021.
 - Joined [CLVR](https://clvrai.com/) in November of 2021.
 - Went back to [Disney Research](https://la.disneyresearch.com/) for a second internship in the Summer of 2022. It was just as magical the second time around!
+- Started at [Signal 1](https://signal1.ai/) as a Machine Learning Scientist in February of 2023
 
 # I like
 
