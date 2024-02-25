@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I&apos;m a final-year Computer Science M.S. student at USC.
-        I am currently a Machine Learning Scientist at <a href="https://signal1.ai/">Signal 1</a> and
+      <p>I am currently a Machine Learning Scientist at <a href="https://signal1.ai/">Signal 1</a>.
+        I received a M.S. degree in Computer Science from USC, where I was also
         a Graduate Research Assistant at <a href="https://clvrai.com/">CLVR Lab</a>.
         I received my Bachelor&apos;s degree in Mechatronics Engineering with a minor in AI from
         the <a href="https://uwaterloo.ca/future-students/programs/mechatronics-engineering">University of Waterloo</a>.

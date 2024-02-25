@@ -1,13 +1,26 @@
 const positions = [
   {
+    company: 'Signal 1',
+    position: 'Machine Learning Scientist',
+    link: 'https://signal1.ai/',
+    daterange: 'July 2021 - Present',
+    points: [
+      'Developed and deployed ML solutions aimed at enhancing clinical decision-making in hospitals and improving patient outcomes.',
+      'Implemented ML microservices, co-designed with Platform and Application teams, boosting model serving speed by >300x.',
+      'Spearheaded an array of ML-related efforts; generalizable models, flexible ML research framework, model performance monitoring.',
+      'Collaborated closely with clinicians to understand key healthcare challenges, framing complex requirements into ML problems.',
+    ],
+  },
+  {
     company: 'Cognitive Learning for Vision and Robotics (CLVR) Lab',
     position: 'Graduate Research Assistant',
     link: 'https://clvrai.com/',
-    daterange: 'November 2021 - Present',
+    daterange: 'November 2021 - April 2023',
     points: [
+      'Created and released the CLVR Jaco Play Dataset of >1000 teleoperated robot episodes.',
+      'Researched the use of Offline RL methods to augment seed trajectory datasets for improved downstream RL training.',
       'Implemented PPO with reward-induced representation pre-training, improving RL training efficiency on downstream tasks.',
       'Created an iOS app using Unity (C#), ARFoundation, and YOLOv5 to collect human action trajectories for RL research.',
-      'Researching the use of Offline RL methods to augment seed trajectory datasets for improved downstream RL training.',
     ],
   },
   {

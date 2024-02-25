@@ -3,6 +3,16 @@
 
 const skills = [
   {
+    title: 'SQL',
+    competency: 4,
+    category: ['Languages', 'Web Development'],
+  },
+  {
+    title: 'Java',
+    competency: 5,
+    category: ['Languages', 'Web Development'],
+  },
+  {
     title: 'Python',
     competency: 5,
     category: ['Languages', 'Machine Learning', 'Computer Vision'],

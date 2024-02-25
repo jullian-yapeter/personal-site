@@ -8,6 +8,40 @@
 // AngelEye
 const data = [
   {
+    title: 'Journey of Water @ Walt Disney World',
+    subtitle: 'Interactive water attraction inspired by Moana',
+    link: 'https://disneyworld.disney.go.com/en_CA/attractions/epcot/journey-of-water/',
+    image: '/images/projects/journey_of_water.avif',
+    date: '2019-07-30',
+    desc:
+      'Conducted computer vision, deep learning, and controls R&D for this attraction. '
+      + 'So happy to see it bringing joy to so many people!',
+  },
+  {
+    title: 'CLVR Jaco Play Dataset',
+    subtitle: 'Dataset of diverse robot trajectories from CLVR @ USC',
+    link: 'https://github.com/clvrai/clvr_jaco_play_dataset',
+    image: '/images/projects/jaco_play_teaser.jpeg',
+    date: '2023-04-23',
+    desc:
+      'Diverse multimodal dataset of 1085 teleoperated robot episodes. '
+      + 'Includes multi-view camera observations, cartesian position and velocity data, '
+      + 'and natural language annotations. Tasks include picking and placing of '
+      + 'various items (of various categories) and receptacles.',
+  },
+  {
+    title: 'Improving Language Understanding via Privileged Multimodal Training',
+    subtitle: 'Final Project for CSCI 535 (Multimodal and Probabilistic Learning for Human Communications)',
+    link: 'https://github.com/jullian-yapeter/JudgeNet/blob/main/_CSCI535__23__PrivilegedMultimodalTraining_Final.pdf',
+    image: '/images/projects/pmt.png',
+    date: '2023-05-05',
+    desc:
+      'Novel method to improve the performance of downstream unimodal '
+      + 'language understanding tasks by leveraging multimodal data during training; '
+      + 'employing optimization towards the task-specific objective while regularized '
+      + 'against a multimodal teacher network in latent space.',
+  },
+  {
     title: 'LCMVAE: Language-conditioned Masked Variational Autoencoder',
     subtitle: 'Final Project for CSCI 566 (Deep Learning Applications)',
     link: 'https://github.com/jullian-yapeter/lcmvae/blob/main/566_Final_Report.pdf',
