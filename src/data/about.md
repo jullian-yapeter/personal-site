@@ -1,7 +1,7 @@
 
 # Intro
 
-I'm an engineer with a passion for food, travelling, and improving people's lives through technology. I graduated with a BASc. in Mechatronics Engineering from the University of Waterloo, and I'm currently finishing up my M.S. degree in Computer Science at the University of Southern California. My interests lie at the intersection of AI and Robotics, with a focus on Computer Vision and Reinforcement Learning. I have an array of industry and research experience, having worked at large companies (like [Walt Disney Imagineering](https://la.disneyresearch.com/) and [IBM](https://www.ibm.com/ca-en)), start-ups (like [Dragonfruit AI](https://www.dragonfruit.ai/)), and research labs (like [CLVR](https://clvrai.com/)). I am currently a Machine Learning Scientist at [Signal 1](https://signal1.ai/), leveraging AI to improve hospital care.
+I'm an engineer with a passion for food, travelling, and improving people's lives through technology. I graduated with an M.S. degree in Computer Science from the University of Southern California and a BASc. in Mechatronics Engineering from the University of Waterloo. My interests lie at the intersection of AI and Robotics, with a focus on Computer Vision and Reinforcement Learning. I have an array of industry and research experience, having worked at large companies (like [Walt Disney Imagineering](https://la.disneyresearch.com/) and [IBM](https://www.ibm.com/ca-en)), start-ups (like [Dragonfruit AI](https://www.dragonfruit.ai/)), and research labs (like [CLVR](https://clvrai.com/)). I am currently a Machine Learning Scientist at [Signal 1](https://signal1.ai/), leveraging AI to improve hospital care.
 
 # Some history
 
