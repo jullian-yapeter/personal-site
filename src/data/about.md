@@ -22,7 +22,10 @@ I'm an engineer with a passion for food, travelling, and improving people's live
 - Moved to Los Angeles for school in the Fall of 2021.
 - Joined [CLVR](https://clvrai.com/) in November of 2021.
 - Went back to [Disney Research](https://la.disneyresearch.com/) for a second internship in the Summer of 2022. It was just as magical the second time around!
-- Started at [Signal 1](https://signal1.ai/) as a Machine Learning Scientist in February of 2023
+- Started a part-time position at [Signal 1](https://signal1.ai/) as a Machine Learning Scientist in February of 2023
+- Submitted to [RSS](https://roboticsconference.org/) and released the [CLVR Jaco Play Dataset](https://github.com/clvrai/clvr_jaco_play_dataset?tab=readme-ov-file) in April of 2023, which was later used in [Open X-Embodiment](https://arxiv.org/html/2310.08864v4).
+- Graduated from USC with an M.S. in Computer Science and initiated into the [Phi Kappa Phi Honor Society](https://en.wikipedia.org/wiki/Phi_Kappa_Phi) in May of 2023. Went on an amazing graduation trip to Japan, Singapore, and Indonesia.
+- Started full-time at [Signal 1](https://signal1.ai/) as a Machine Learning Scientist in July of 2023. Excited to be making a difference in healthcare through the use of AI.
 
 # I like
 
